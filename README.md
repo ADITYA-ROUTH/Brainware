@@ -30,18 +30,6 @@ Live Demo: 👉 Click here to try it out
 🔧 Firebase Setup
 To connect your Firebase project, replace the configuration in your app.js file:
 
-js
-Copy
-Edit
-const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID",
-  measurementId: "YOUR_MEASUREMENT_ID"
-};
 📁 Project Structure
 bash
 Copy
@@ -59,7 +47,7 @@ library-management/
 
 💻 Open index.html in your browser
 
-🌐 Optionally deploy via Firebase Hosting or Netlify
+🌐 Optionally deploy via Firebase Hosting or Netlify https://endearing-mooncake-98594c.netlify.app/#section_5
 
 🤝 Contribute
 Have ideas or improvements?
